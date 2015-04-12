@@ -1,4 +1,4 @@
 # testrepo
-test
+testing
 Other
 nothing to do
